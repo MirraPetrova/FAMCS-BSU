@@ -1,8 +1,6 @@
 #include <iostream>
 #include <windows.h>
 
-using namespace std;
-
 int main(int argc, char* argv[])
 {
     int size = atoi(argv[1]);
@@ -17,9 +15,11 @@ int main(int argc, char* argv[])
     for (int i = 0; i < size; i++)
         sum += arr[i] * arr[i];
 
-    cout << "Sum of squares: " << sum << endl;
+    std::cout << "Sum of squares: " << sum << std::endl;
     Sleep(120);
-    cin >> sum;
+
+    std::cin >> sum;
+
     delete[] arr;
     return 0;
 }
