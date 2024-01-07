@@ -22,11 +22,23 @@ int main() {
 
 	hSemaphore = CreateSemaphore(NULL, 2, 2, L"Semaphore");
 	eventA = CreateEvent(NULL, FALSE, FALSE, L"eventA"); 
+	if (eventA == NULL)
+		return GetLastError();
 	eventB = CreateEvent(NULL, FALSE, FALSE, L"eventB"); 
+	if (eventB == NULL)
+		return GetLastError();
 	eventC = CreateEvent(NULL, FALSE, FALSE, L"eventC"); 
+	if (eventC == NULL)
+		return GetLastError();
 	eventD = CreateEvent(NULL, FALSE, FALSE, L"eventD"); 
+	if (eventD == NULL)
+		return GetLastError();
 	EndParent = CreateEvent(NULL, FALSE, FALSE, L"EndParent"); 
+	if (EndParent == NULL)
+		return GetLastError();
 	EndChild = CreateEvent(NULL, FALSE, FALSE, L"EndChild"); 
+	if (EndChild == NULL)
+		return GetLastError();
 	HANDLE hMutex;
 	hMutex = CreateMutex(NULL, FALSE, L"Mutex"); 
 
