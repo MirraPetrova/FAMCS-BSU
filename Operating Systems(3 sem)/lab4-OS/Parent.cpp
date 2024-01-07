@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 	WaitForSingleObject(hMutex, INFINITE);
 
 	for (int i = 0; i < AmountMess; i++) {
-		std::cout << "Enter the message: ";
+		std::cout << "Enter the message(A or B): ";
 		char mess;
 		std::cin >> mess;
 		std::cout << std::endl;
