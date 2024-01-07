@@ -19,7 +19,6 @@ char* CreateCmdLine(std::string file, int param) {
 }
 
 int main() {
-
 	hSemaphore = CreateSemaphore(NULL, 2, 2, L"Semaphore");
 	eventA = CreateEvent(NULL, FALSE, FALSE, L"eventA"); 
 	if (eventA == NULL)
