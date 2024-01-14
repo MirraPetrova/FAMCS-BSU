@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/apache-maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/apache-maven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-artifact/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-artifact/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-builder-support/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-builder-support/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-compat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-compat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-embedder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-embedder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-model-builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-model-builder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-plugin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-plugin-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-repository-metadata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-repository-metadata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-resolver-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-resolver-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-settings-builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-settings-builder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-settings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-settings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-slf4j-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/maven-slf4j-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../apache-maven-3.9.6-src/apache-maven-3.9.6/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
