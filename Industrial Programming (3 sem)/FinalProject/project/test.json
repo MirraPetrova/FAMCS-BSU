@@ -1,0 +1,22 @@
+{
+  "MathematicalEquations": [
+    {
+      "equation": "4+3"
+    },
+    {
+      "equation": "1-1"
+    },
+    {
+      "equation": "4*5"
+    },
+    {
+      "equation": "20/2+5"
+    },
+    {
+      "equation": "20/(2*5)"
+    },
+    {
+      "equation": "(2/2-1+2)*2"
+    }
+  ]
+}

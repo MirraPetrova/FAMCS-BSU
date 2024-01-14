@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MathematicalEquations>
+    <equation>4+3</equation>
+    <equation>1-1</equation>
+    <equation>4*5</equation>
+    <equation>20/2*5</equation>
+    <equation>20/(2*5)</equation>
+    <equation>(2/2-1+2)*2</equation>
+</MathematicalEquations>
