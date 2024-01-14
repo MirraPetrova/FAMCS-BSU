@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Clients>
+    <Client>
+        <NameOfGoods>Medicine</NameOfGoods>
+        <TransportationMethod>Air</TransportationMethod>
+        <Weight>27.8</Weight>
+    </Client>
+    <Client>
+        <NameOfGoods>Furniture</NameOfGoods>
+        <TransportationMethod>Land</TransportationMethod>
+        <Weight>430</Weight>
+    </Client>
+    <Client>
+        <NameOfGoods>Chemical substances</NameOfGoods>
+        <TransportationMethod>Water</TransportationMethod>
+        <Weight>378.6</Weight>
+    </Client>
+</Clients>
